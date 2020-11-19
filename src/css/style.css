@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* @import "modules/font-face.css"; */
+@import "modules/vars.css";
+@import "../../node_modules/normalize.css/normalize.css";
+@import "modules/base.css";
+@import "modules/sprite.css";
+@import "modules/grid.css";
+@import "modules/animations.css";
+
+/*componets styles*/
+
+@import "components/icon.css";
+@import "components/buttons.css";
+@import "components/links.css";
+@import "components/preloader.css";
+
+/*last styles*/
+
+/*@import "../../node_modules/atm.css/atm.css";*/
+
+@import "project.less";
+
+
+
